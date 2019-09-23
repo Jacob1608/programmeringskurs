@@ -1,6 +1,6 @@
 regnar_det = input("Regnar det idag?")
 
-if regnar_det.lower == "ja":
+if regnar_det == "ja":
     print("Ta med paraply!")
 
 if regnar_det == "nej":
