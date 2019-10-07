@@ -11,3 +11,5 @@ for i in range(80):
         teppo.circle(50)
         teppo.left(10)
         teppo.backward(10)
+
+input()
